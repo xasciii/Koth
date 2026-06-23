@@ -3,7 +3,7 @@
   <img alt="License" src="https://img.shields.io/github/license/xasciii/Koth">
   <img alt="GitHub Release" src="https://img.shields.io/github/release/xasciii/Koth.svg">
   <br><br>
-  <a href="https://github.com/xasciii/Tourneys/releases/latest"><img alt="Download" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/xasciii/Koth/releases/latest"><img alt="Download" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=github"></a>
   <a href="https://discord.gg/ZmdNWv8vW6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
