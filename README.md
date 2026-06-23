@@ -55,3 +55,12 @@ The plugin registers placeholders under the `KOTH` identifier.
 %KOTH_capper% - Current capper name, or None
 %KOTH_hologram% - Formatted status text for holograms
 ```
+
+## Credits
+
+**Maintainer: [asc](https://github.com/xasciii)**
+
+
+## License
+
+This project is licensed under the [GPL3 License](LICENSE).
