@@ -1,6 +1,16 @@
-# KOTH
+<div align="center">
+  <h1>KoTH</h1>
+  <img alt="License" src="https://img.shields.io/github/license/xasciii/Koth">
+  <img alt="GitHub Release" src="https://img.shields.io/github/release/xasciii/Koth.svg">
+  <br><br>
+  <a href="https://github.com/xasciii/Tourneys/releases/latest"><img alt="Download" src="https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://discord.gg/ZmdNWv8vW6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
-A simple King of the Hill plugin for Paper servers.
+A simple King of the Hill plugin for minecraft serverr. King of The Hill (KoTH) is an event that accours every x amount of time which gives the player who captures it a reward.
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/97fd8d22-e4d0-4d79-b9ef-4462f905f7d3" />
+
 
 ## Requirements
 
@@ -9,17 +19,6 @@ A simple King of the Hill plugin for Paper servers.
 - WorldGuard
 - PlaceholderAPI, optional
 
-## Build
-
-```sh
-mvn package
-```
-
-The built plugin jar is created at:
-
-```text
-target/koth-1.0.0.jar
-```
 
 ## Commands
 
