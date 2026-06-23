@@ -1,0 +1,8 @@
+org/asc/koth/KOTHPlugin.class
+org/asc/koth/PlaceholderModule.class
+org/asc/koth/WorldGuardManager.class
+org/asc/koth/commands/CommandManager.class
+org/asc/koth/commands/AdminCommands.class
+org/asc/koth/utilities/TimeUtility.class
+org/asc/koth/KOTHManager.class
+org/asc/koth/utilities/MsgUtility.class

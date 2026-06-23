@@ -1,0 +1,10 @@
+#
+# KOTH (by asc)
+# Version 1.0.1
+#
+
+tick-rate: 20 # ticks
+frequency: 5 # hours
+cap-time: 5 # minutes
+cap-region: "kothcap"
+reward-command: "/crate give {player} koth"

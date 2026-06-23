@@ -1,0 +1,7 @@
+name: KOTH
+version: 1.0.1
+main: org.asc.koth.KOTHPlugin
+author: asc
+api-version: 1.20
+depend: [WorldGuard]
+softdepend: [PlaceholderAPI]
